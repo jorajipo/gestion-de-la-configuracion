@@ -1,3 +1,4 @@
 Hoja de comandos de git https://education.github.com/git-cheat-sheet-education.pdf
 
 tutoriales https://www.atlassian.com/es/git/tutorials/learn-git-with-bitbucket-cloud
+Un pull request es una petición para integrar nuestras propuestas o cambios de código a un proyecto.
